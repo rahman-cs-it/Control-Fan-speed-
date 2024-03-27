@@ -24,12 +24,4 @@ This fan speed controller is compatible with Acer Aspire 7 laptops.
 
 Please note that modifying fan speeds may affect the laptop's cooling system and potentially its warranty. Use this tool at your own risk.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the license terms.
-
-## Contributions
-
-Contributions to improve this fan speed controller are welcome. If you encounter any issues or have suggestions for enhancements, please open an issue or create a pull request. 
-
 Happy cooling! 🌀🌬️
